@@ -1,3 +1,19 @@
+.Alert{
+  width: 50%;
+  font-size: 30px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.Alert-hidden{
+  display: none;
+}
+.Button{
+  margin-top: 50px;
+  font-size: 22px;
+}
+
 .App {
   text-align: center;
 }
